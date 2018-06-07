@@ -17,11 +17,11 @@ print dq
 for elt in dq:
     print(elt)
 
-# pop out an element at from the right of the queue
+# pop out an element from the right of the queue
 dq.pop()
 print dq
 
-# pop out an element at from the right of the queue
+# pop out an element from the left of the queue
 dq.popleft()
 print dq
 
